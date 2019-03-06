@@ -1,0 +1,46 @@
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\bin\Debug\cbttest.exe
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\bin\Debug\cbttest.pdb
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Properties.Resources.resources
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.exe
+c:\users\onalz_joseph\documents\visual studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.pdb
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.frmRegister.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Main.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.AdminLog.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Login.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.AdminHome.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.UpdateStudent.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.ListView.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\bin\Debug\cbttest.exe.config
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.MDIParent1.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.enterTest.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Recd2.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Recod2.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Subject.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Quiz.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.Record3.resources
+C:\Users\Onalz_joseph\Documents\Visual Studio 2010\Projects\cbttest\cbttest\obj\x86\Debug\cbttest.AddSubject.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\bin\Debug\cbttest.exe.config
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.exe
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.pdb
+C:\Users\Joseph\Desktop\cbttest\cbttest\bin\Debug\cbttest.exe
+C:\Users\Joseph\Desktop\cbttest\cbttest\bin\Debug\cbttest.pdb
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.AddSubject.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.AdminHome.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.enterTest.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Quiz.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.AdminLog.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.frmRegister.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.ListView.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Login.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Main.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.MDIParent1.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Properties.Resources.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Recod2.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Recd2.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Record3.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.Subject.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.UpdateStudent.resources
+C:\Users\Joseph\Desktop\cbttest\cbttest\obj\x86\Debug\cbttest.csproj.GenerateResource.Cache
